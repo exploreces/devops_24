@@ -16,13 +16,13 @@ Before you begin, ensure you have the following installed:
 1. **Clone this repository** (if you haven't already):
 
    ```bash
-   git clone https://github.com/exploreces/devops-session-project-24
+   git clone https://github.com/exploreces/devops_24
    ```
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd devops-session-project-24
+   cd devops_24
    ```
 
 ## Infrastructure and Application Deployment
